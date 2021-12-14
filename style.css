@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(240, 52, 52);
+    color: whitesmoke;
+    text-align: center;
+}
+
+
+
+header{
+    background-color: bisque;
+    text-align: left;
+    font-family: 'Press Start 2P', cursive;
+}
+
+
+
+
+
+
+li  {
+    display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    letter-spacing: 6px;
+    border: 15px;
+    padding: 20px;
+    margin: 20px;
+}
+
+p{
+    font-family: 'Fira Sans', sans-serif;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.intro{
+    text-align: center;
+}
+
+h2{
+    font-family: 'Press Start 2P', cursive;
+
+}
+
+ul{
+    font-family: 'Changa', sans-serif;
+}
